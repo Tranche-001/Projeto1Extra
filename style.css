@@ -1,0 +1,56 @@
+body{
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    margin: 0px;
+    width: 1024px;
+    margin: auto;
+}
+
+#main{
+    width: 626px;
+    margin: 64px auto 64px;
+}
+
+#main img{
+    margin-bottom: 64px;
+}
+
+h1{
+    font-family: "Dosis", sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+}
+
+h1 span{
+    font-weight: bold;
+}
+
+span{
+    color: #EE24FF;
+}
+p{
+    width: 540px;
+}
+p, #Footer{
+    color: #828282;
+    line-height: 22px;
+    font-size: 15px;
+    margin: auto;
+}
+#Footer #wave{
+    margin: 40.83px auto 0px;
+    
+}
+a+a {
+    margin-left: 42px;
+}
+
+.line{ /* Para classe se usa .*/
+    width: 391px;
+    height: 0px;
+    margin: 0 auto 16px;
+    border: 1px solid #ECEFF2;
+    /*Podemos clicar na cor para escolher ela. 
+    Além disso, podemos clicar no nome para escolher o formato. 
+    Isto é, RGB, Hexa HSL e +*/
+}
